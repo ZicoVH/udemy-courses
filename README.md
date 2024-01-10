@@ -1,2 +1,7 @@
 # udemy-courses
 This repository contains all the udemy courses I have taken over the course of my professional career 
+
+In chronological order of following the courses:
+1) NOT IN REPO |  Learn Figma ==> https://www.udemy.com/course/learn-figma/
+2) Master microservices ==> https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/
+3) Understanding Typescript ==> https://www.udemy.com/course/understanding-typescript/ 
